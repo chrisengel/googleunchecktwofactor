@@ -3,5 +3,6 @@ Simple userscript to get Google to stop checking "Don't ask again on this comput
 
 Instructions:
 
-1. Install TamperMonkey on Chrome
-2. Add userscript and then add the .js file here
+1. Install TamperMonkey on Chrome: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
+2. Go into Tampermonkey dashboard "Add new script" 
+3. Paste the contents of the .js here into there. 
